@@ -1,0 +1,426 @@
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+.body {
+    background-image: url("http://codecondo.com/wp-content/uploads/2015/02/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg?478983")  ;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+
+}
+.color{
+    background-color:white;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.9;
+    border-radius: 20px;
+
+}
+.mainWrapper{
+    height: 3500px;
+    width: 1100px;
+    margin: auto;
+    position: relative;
+
+}
+.header{ z-index: 3;
+    width: auto;
+    height: 275px;
+    margin-top: 100px;
+    margin-left: 50px;
+    position: relative;
+
+}
+.FotoCV {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: solid 2px;
+    border-color: darkblue;
+    transition: 0.8s;
+
+}
+.titleCV{
+    font-family: 'Roboto' ;
+    width: 300px;
+    height: 50px;
+    left: 0px;
+    position: absolute;
+    top: 210px;
+}
+.mailFoto{
+        width: 20px;
+        height: 20px;
+
+}
+.blockOFtitle{
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+}
+
+.divfoto{
+    width: 205px;
+    height: 205px;
+    position: absolute;
+    top: 25px;
+}
+.blFoto{
+    position: relative;
+}
+.rightblock{
+    width: 285px;
+    height: 250px;
+    position: absolute;
+    right: 200px ;
+    top: 50px;
+}
+
+
+.rightblock ul li img {
+    width: 15px;
+    height: 15px;
+}
+.linkF{
+    color: black;
+}
+.linkF:hover{
+    color:deepskyblue;
+    transition: 0.5s;
+
+}
+.gitpic{
+    width: 35px !important;;
+}
+.mailFoto{
+    width: 20px !important;
+}
+p{
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 0.5;
+}
+.main{
+    position: absolute;
+    top: 350px;
+}
+.main div ul li{
+    list-style-type: none;
+}
+.thad{
+    width: 120px;
+}
+
+.fixBotton {
+    border: 2px solid #e34761;
+    z-index: 4;
+    width: 75px;
+    height: 50px;
+    position: fixed;
+    border: solid;
+    border: 2px;
+    left: 15px;
+    color: black;
+    background-color: yellow;
+    border-radius: 10px;
+    line-height: 5px;
+}
+.fixBotton:hover{
+    border-bottom: outset;
+    color:yellow ;
+    background-color: red;
+    width: 50px;
+    height: 100px;
+    transition: 0.8s;
+
+}
+.callhim{ line-height:1.5;
+    font-family: Roboto;
+    font-size: 15px;
+    margin: auto;
+}
+
+
+
+
+
+a.knopka {
+    color: #fff; /* цвет текста */
+    text-decoration: none; /* убирать подчёркивание у ссылок */
+    user-select: none; /* убирать выделение текста */
+    background: rgb(212,75,56); /* фон кнопки */
+    padding: .7em 1.5em; /* отступ от текста */
+    outline: none; /* убирать контур в Mozilla */
+}
+a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
+a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden {
+    display: none !important;
+}
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 1.25dppx),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   http://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after,
+    *:first-letter,
+    *:first-line {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster:
+                                   http://www.sanbeiji.com/archives/953 */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+    body {
+        background-color: #b3d4fc;
+    }
+}
