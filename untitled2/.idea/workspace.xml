@@ -18,8 +18,8 @@
       <file leaf-file-name="DenysPokatilovCV.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DenysPokatilovCV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="166" column="113" lean-forward="false" selection-start-line="166" selection-start-column="113" selection-end-line="166" selection-end-column="113" />
+            <state relative-caret-position="442">
+              <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -32,8 +32,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1428">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="435">
+              <caret line="195" column="16" lean-forward="false" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -226,12 +226,12 @@
       <workItem from="1485210963908" duration="11804000" />
       <workItem from="1485454114166" duration="40370000" />
       <workItem from="1485907584826" duration="922000" />
-      <workItem from="1485910843653" duration="7441000" />
+      <workItem from="1485910843653" duration="9482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64817000" />
+    <option name="totallyTimeSpent" value="66858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1370" height="733" extended-state="0" />
@@ -499,16 +499,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doc/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1428">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="435">
+          <caret line="195" column="16" lean-forward="false" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DenysPokatilovCV.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="166" column="113" lean-forward="false" selection-start-line="166" selection-start-column="113" selection-end-line="166" selection-end-column="113" />
+        <state relative-caret-position="442">
+          <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#table#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
