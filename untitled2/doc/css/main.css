@@ -4,8 +4,8 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
-.body {
-    background-image: url("http://codecondo.com/wp-content/uploads/2015/02/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg?478983")  ;
+.body {background-repeat: repeat;
+    background-image: url("http://codecondo.com/wp-content/uploads/2015/02/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg?478983")    ;
     margin: 0px;
     padding: 0px;
     height: 100%;
@@ -162,12 +162,20 @@ p{
     text-decoration: underline;
 }
 
-li{
+li{ display: block;
+    width: auto;
     list-style-type: none;
 }
-
-
-
+.blockDown {
+    width: 250px;
+    height:30px;
+    margin-left: 37px;
+}
+/*.hrefdownl{
+    display: block;
+    z-index: 3;
+}
+*/
 
 
 
