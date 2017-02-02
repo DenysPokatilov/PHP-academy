@@ -1,0 +1,60 @@
+[33mcommit 11bb60e5f9e845c17521c1455f10332a3440af25[m
+Merge: 1608d06 a9aa1c3
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Thu Feb 2 02:01:54 2017 +0200
+
+    merge
+
+[33mcommit a9aa1c3fb986af4be74b4940a2f5a49e65e8c3de[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Thu Feb 2 01:50:03 2017 +0200
+
+    commit 02.02. start work with newbtanch
+
+[33mcommit 1608d06a1aabfdcbf191cbfed8be6cd0dc60060e[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Thu Feb 2 01:05:31 2017 +0200
+
+    befor change branch
+
+[33mcommit 4ae3d48eb3c2dad43443588f4c0a42c89747ad15[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 14:21:49 2017 +0200
+
+    after clone
+
+[33mcommit 6638b67ae09eb6a94849e8b3b9270fdcb66a3518[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 05:42:13 2017 +0200
+
+    5.43 01/02
+
+[33mcommit 571f2f31891e210466ca8a93dc2f497d50e09683[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 05:08:36 2017 +0200
+
+    5th commit download
+
+[33mcommit 3bacd6cb35bd87fce28ee058ac50d7d058755151[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 03:46:20 2017 +0200
+
+    4th commit
+
+[33mcommit c631febe84cadc620cc59fca898d1135118ae6c7[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 02:47:19 2017 +0200
+
+    third commit
+
+[33mcommit d2ddd1174526586e79b6398ad971936be66247f3[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Wed Feb 1 02:08:54 2017 +0200
+
+    second commit
+
+[33mcommit 96d15ad8a91d0af7d33e2708b570ca5422544213[m
+Author: Denys Pokatilov <denyspokatilov@gmail.com>
+Date:   Mon Jan 30 15:50:12 2017 +0200
+
+    first commit
