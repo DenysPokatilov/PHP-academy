@@ -45,12 +45,12 @@ a{
     margin-left: 0px;
 }
 .FotoCV {
+    transition: 3s;
     width: 200px;
     height: 200px;
     border-radius: 100%;
     border: solid 2px;
     border-color: blanchedalmond;
-    transition: 0.8s;
 
 }
 .titleCV{
