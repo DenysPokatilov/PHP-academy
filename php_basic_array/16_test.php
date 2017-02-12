@@ -13,6 +13,7 @@ foreach ($arr as $i) {
         if($count%3==0){
             echo '<br>';
         }
-        }
+}
 
 
+hfhf
