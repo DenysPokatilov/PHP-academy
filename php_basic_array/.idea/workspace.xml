@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7dfbaa-24ad-4d19-9c16-05ab2c3ffc1c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/28_task.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../php_basics_tasks" afterPath="$PROJECT_DIR$/../php_basics_tasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/23_test.php" afterPath="$PROJECT_DIR$/23_test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_test.php" afterPath="$PROJECT_DIR$/24_test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25_test.php" afterPath="$PROJECT_DIR$/25_test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/26_test.php" afterPath="$PROJECT_DIR$/26_test.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,26 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="16_test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16_test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22_test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22_test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="6_task.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6_task.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,12 +57,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="26_test.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="26_test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/26_test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_task.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="28_task.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/28_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,7 +193,6 @@
         <option value="$PROJECT_DIR$/9__task.php" />
         <option value="$PROJECT_DIR$/10_task.php" />
         <option value="$PROJECT_DIR$/11_task.php" />
-        <option value="$PROJECT_DIR$/13_task.php" />
         <option value="$PROJECT_DIR$/12_task.php" />
         <option value="$PROJECT_DIR$/14_task.php" />
         <option value="$PROJECT_DIR$/15_test.php" />
@@ -211,6 +209,8 @@
         <option value="$PROJECT_DIR$/24_test.php" />
         <option value="$PROJECT_DIR$/25_test.php" />
         <option value="$PROJECT_DIR$/26_test.php" />
+        <option value="$PROJECT_DIR$/13_task.php" />
+        <option value="$PROJECT_DIR$/28_task.php" />
       </list>
     </option>
   </component>
@@ -345,7 +345,7 @@
       <workItem from="1486400127577" duration="4662000" />
       <workItem from="1486552048920" duration="15072000" />
       <workItem from="1486595367389" duration="32631000" />
-      <workItem from="1486916969783" duration="8481000" />
+      <workItem from="1486916969783" duration="8775000" />
     </task>
     <task id="LOCAL-00001" summary="all done but last one 4it )))">
       <created>1486944359533</created>
@@ -354,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486944359533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="все сделано кроме 27(подсмотрел)">
+      <created>1486945230187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486945230187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60846000" />
+    <option name="totallyTimeSpent" value="61140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -413,7 +420,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all done but last one 4it )))" />
-    <option name="LAST_COMMIT_MESSAGE" value="all done but last one 4it )))" />
+    <MESSAGE value="все сделано кроме 27(подсмотрел)" />
+    <option name="LAST_COMMIT_MESSAGE" value="все сделано кроме 27(подсмотрел)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -423,7 +431,7 @@
           <line>2</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -581,16 +589,6 @@
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,6 +797,24 @@
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
