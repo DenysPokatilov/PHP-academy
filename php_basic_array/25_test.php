@@ -18,6 +18,7 @@ $min=min($arr);
 echo '<pre>'.max($arr);
 $max=max($arr);
 
+
 //foreach ($arr as $item){
 //    echo '<pre>'.$item;
 //}
