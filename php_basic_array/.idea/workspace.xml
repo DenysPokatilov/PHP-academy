@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7dfbaa-24ad-4d19-9c16-05ab2c3ffc1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/25_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27_task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27_test.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../php_basics_tasks" afterPath="$PROJECT_DIR$/../php_basics_tasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_test.php" afterPath="$PROJECT_DIR$/16_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/23_test.php" afterPath="$PROJECT_DIR$/23_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_test.php" afterPath="$PROJECT_DIR$/24_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25_test.php" afterPath="$PROJECT_DIR$/25_test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/26_test.php" afterPath="$PROJECT_DIR$/26_test.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,8 +61,8 @@
       <file leaf-file-name="23_test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/23_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="e#6#86#0#PHP" expanded="true" />
               </folding>
@@ -76,8 +73,8 @@
       <file leaf-file-name="24_test.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/24_test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -87,10 +84,8 @@
         <entry file="file://$PROJECT_DIR$/26_test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#6#85#0#PHP" expanded="true" />
-              </folding>
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,11 +155,10 @@
         <entry file="file://$PROJECT_DIR$/25_test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
               <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
-                <marker date="1486944284068" expanded="true" signature="152:291" ph="..." />
-                <marker date="1486944284068" expanded="true" signature="183:291" ph="..." />
+                <marker date="1486945122695" expanded="true" signature="305:444" ph="..." />
+                <marker date="1486945122695" expanded="true" signature="336:444" ph="..." />
               </folding>
             </state>
           </provider>
@@ -211,12 +205,12 @@
         <option value="$PROJECT_DIR$/21_test.php" />
         <option value="$PROJECT_DIR$/22_test.php" />
         <option value="$PROJECT_DIR$/16_test.php" />
-        <option value="$PROJECT_DIR$/23_test.php" />
-        <option value="$PROJECT_DIR$/24_test.php" />
-        <option value="$PROJECT_DIR$/26_test.php" />
         <option value="$PROJECT_DIR$/27_task.html" />
         <option value="$PROJECT_DIR$/27_test.php" />
+        <option value="$PROJECT_DIR$/23_test.php" />
+        <option value="$PROJECT_DIR$/24_test.php" />
         <option value="$PROJECT_DIR$/25_test.php" />
+        <option value="$PROJECT_DIR$/26_test.php" />
       </list>
     </option>
   </component>
@@ -351,12 +345,20 @@
       <workItem from="1486400127577" duration="4662000" />
       <workItem from="1486552048920" duration="15072000" />
       <workItem from="1486595367389" duration="32631000" />
-      <workItem from="1486916969783" duration="7623000" />
+      <workItem from="1486916969783" duration="8481000" />
     </task>
+    <task id="LOCAL-00001" summary="all done but last one 4it )))">
+      <created>1486944359533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486944359533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59988000" />
+    <option name="totallyTimeSpent" value="60846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -410,7 +412,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="all done but last one 4it )))" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done but last one 4it )))" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -707,24 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24_test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/27_task.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -780,14 +765,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/23_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/25_test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-            <marker date="1486944284068" expanded="true" signature="152:291" ph="..." />
-            <marker date="1486944284068" expanded="true" signature="183:291" ph="..." />
+            <marker date="1486945122695" expanded="true" signature="305:444" ph="..." />
+            <marker date="1486945122695" expanded="true" signature="336:444" ph="..." />
           </folding>
         </state>
       </provider>
@@ -795,10 +797,8 @@
     <entry file="file://$PROJECT_DIR$/26_test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-          </folding>
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
