@@ -12,12 +12,13 @@ $com=$_POST['comment'];
 $name=$_POST['name'];
 if (!$com==true){
     function addComent ($com,$name){
-
-    }
-
+        global $com;
+        global $name;
+        echo  '<pre>'. $com . $name;
+ }
 
 }
-
+ addComent();
 ?>
 
 <head>
@@ -36,10 +37,6 @@ if (!$com==true){
     <p><input type="submit" value="Отправить">
         <input type="reset" value="Очистить"></p>
 </form>
-
-
-
-
 
 </body>
 </html>
