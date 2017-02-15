@@ -12,7 +12,13 @@ function searchDir()
 {
     $filelist = glob("*.php");
     foreach ($filelist as $item) {
-        echo $item;
+        if(!empty($filelist))
+        {
+            echo '<pre>'.$item;
+        }
+        else{
+            echo "direction is empty!";
+        }
     }
 }
 print_r(searchDir($filelist));
