@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c65a0018-e86b-48bf-9ed7-624392bba2bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5_task.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4_task.php" afterPath="$PROJECT_DIR$/4_task.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/5_task.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="true" />
               </folding>
@@ -239,7 +237,7 @@
       <workItem from="1487022956345" duration="7483000" />
       <workItem from="1487030738409" duration="92000" />
       <workItem from="1487031063150" duration="566000" />
-      <workItem from="1487109406940" duration="5951000" />
+      <workItem from="1487109406940" duration="6008000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1487031105083</created>
@@ -248,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487031105083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="5 done but array steel empty">
+      <created>1487118819564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487118819564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25956000" />
+    <option name="totallyTimeSpent" value="26013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -286,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="form" />
-    <option name="LAST_COMMIT_MESSAGE" value="form" />
+    <MESSAGE value="5 done but array steel empty" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 done but array steel empty" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -490,7 +496,7 @@
     <entry file="file://$PROJECT_DIR$/5_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
