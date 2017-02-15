@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div><!-- Тип кодирования данных, enctype, ДОЛЖЕН БЫТЬ указан ИМЕННО так -->
+<form enctype="multipart/form-data" action="6_task.php" method="POST">
+    <!-- Поле MAX_FILE_SIZE должно быть указано до поля загрузки файла -->
+    <input type="hidden" name="MAX_FILE_SIZE" value="30000" />
+    <!-- Название элемента input определяет имя в массиве $_FILES -->
+    Отправить этот файл: <input type="file" id="photo" name="photo[]"  multiple />
+    <input type="submit" value="Send File" />
+</form>
+    <div><?=$uploadfile ? 'yes': 'no'; ?></div>
+
+    <?php if(file_exists('name_image.txt')): ?>
+    <table class="table table-bordered">
+        <?php for($i=0;$i<count($result);$i++): ?>
+        <tr>
+            <td>
+                <img src="<?='gallery'.DIRECTORY_SEPARATOR.$result[$i];?>">
+            </td>
+        </tr>
+        <?php endfor; ?>
+    </table>
+    <?php endif; ?>
+</div>
+</body>
+</html>
