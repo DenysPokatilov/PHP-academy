@@ -11,7 +11,7 @@ $b=$_POST['b'];
 $result="";
 
 
-function getCommonWords($a, $b){
+function getCommonWords($a='input', $b='input'){
     global $result;
     $result="$a.$b";
 
