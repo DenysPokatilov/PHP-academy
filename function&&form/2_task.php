@@ -5,7 +5,8 @@
  * Date: 13.02.2017
  * Time: 20:04
  */
-//Создать форму с элементом textarea. При отправке формы скрипт должен выдавать ТОП3 длинных слов в тексте. Реализовать с помощью функции.
+//Создать форму с элементом textarea.
+// При отправке формы скрипт должен выдавать ТОП3 длинных слов в тексте. Реализовать с помощью функции.
 //var_dump($_POST);
 $arr=$_POST['a'];
 $str=$arr;
@@ -28,7 +29,7 @@ print_r(array_slice($words, 0, 5));
     <title>Title</title>
 </head>
 <body>
-<form action="2task.php" method="post">
+<form action="2_task.php" method="post" required>
     <div>
         <textarea name="a"></textarea>
     </div>

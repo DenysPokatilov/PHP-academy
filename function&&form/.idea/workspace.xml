@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c65a0018-e86b-48bf-9ed7-624392bba2bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8_task/8_task.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2task.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../php_basics_tasks" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9_task.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_task.php" afterPath="$PROJECT_DIR$/2_task.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8_task/8_task.php" afterPath="$PROJECT_DIR$/8_task/8_task.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,18 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8_task.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8_task/8_task.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,6 +57,11 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="C:/xampp/htdocs/7_task.php" />
         <option value="$PROJECT_DIR$/8_task/8_task.php" />
+        <option value="$PROJECT_DIR$/9_task.php" />
+        <option value="C:/xampp/htdocs/2_task.php" />
+        <option value="$PROJECT_DIR$/2_task.php" />
+        <option value="$PROJECT_DIR$/7_task/7_task.php" />
+        <option value="C:/xampp/htdocs/9_task.php" />
       </list>
     </option>
   </component>
@@ -124,19 +118,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="8_task" />
+              <option name="myItemId" value="6_task" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/7_task.php" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/9_task.php" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -223,7 +217,8 @@
       <workItem from="1487030738409" duration="92000" />
       <workItem from="1487031063150" duration="566000" />
       <workItem from="1487109406940" duration="18474000" />
-      <workItem from="1487201813719" duration="14018000" />
+      <workItem from="1487201813719" duration="14116000" />
+      <workItem from="1487288885499" duration="5668000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1487031105083</created>
@@ -295,17 +290,24 @@
       <option name="project" value="LOCAL" />
       <updated>1487215489962</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="7 done">
+      <created>1487216128515</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487216128515</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52497000" />
+    <option name="totallyTimeSpent" value="58263000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -354,23 +356,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/8_task/8_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
@@ -409,14 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/7_task.php" />
     <entry file="file://$PROJECT_DIR$/3_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -441,29 +437,15 @@
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2task.php" />
     <entry file="file://$PROJECT_DIR$/4_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -486,29 +468,15 @@
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2task.php" />
     <entry file="file://$PROJECT_DIR$/1_task.html" />
     <entry file="file://$PROJECT_DIR$/4_task.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -532,29 +500,15 @@
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2task.php" />
     <entry file="file://$PROJECT_DIR$/1_task.html" />
     <entry file="file://$PROJECT_DIR$/4_task.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -578,29 +532,15 @@
           <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2task.php" />
     <entry file="file://$PROJECT_DIR$/1_task.html" />
     <entry file="file://$PROJECT_DIR$/1_task.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -608,40 +548,18 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
             <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
             <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
             <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
             <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1_task.html" />
-    <entry file="file://$PROJECT_DIR$/2task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2task.php" />
     <entry file="file://$PROJECT_DIR$/6_task.html" />
     <entry file="file://$PROJECT_DIR$/6_task.php" />
-    <entry file="file://$PROJECT_DIR$/6_task/6_task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -668,43 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="316:637" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="323:383" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:629" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="431:621" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:491" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:551" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="561:613" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment_txt_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_txt_file.txt" />
     <entry file="file://$PROJECT_DIR$/6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -715,51 +597,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/7_task.php">
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/7_task.php" />
+    <entry file="file://$PROJECT_DIR$/9_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="72" column="69" lean-forward="false" selection-start-line="72" selection-start-column="69" selection-end-line="72" selection-end-column="69" />
+        <state relative-caret-position="459">
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
-            <element signature="n#style#0;n#input#0;n#p#0;n#form#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#0;n#p#1;n#form#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="e#2188#2192#0#HTML" expanded="true" />
-            <marker date="1487215246004" expanded="true" signature="1368:1428" ph="..." />
-            <marker date="1487215246004" expanded="true" signature="1435:2635" ph="..." />
-            <marker date="1487215246004" expanded="true" signature="1488:1969" ph="..." />
-            <marker date="1487215246004" expanded="true" signature="1525:1677" ph="..." />
-            <marker date="1487215246004" expanded="true" signature="1686:1847" ph="..." />
+            <element signature="e#6#236#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
+    <entry file="file://C:/xampp/htdocs/7_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="51" column="96" lean-forward="true" selection-start-line="51" selection-start-column="93" selection-end-line="51" selection-end-column="101" />
+        <state relative-caret-position="291">
+          <caret line="72" column="69" lean-forward="false" selection-start-line="72" selection-start-column="69" selection-end-line="72" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_task.php">
+    <entry file="file://C:/xampp/htdocs/2_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_task/7_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
-          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="425">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8_task/8_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="66" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="71" />
+        <state relative-caret-position="121">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_task/6_task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+            <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/9_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_task/7_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
