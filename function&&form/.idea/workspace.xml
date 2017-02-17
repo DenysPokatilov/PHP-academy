@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c65a0018-e86b-48bf-9ed7-624392bba2bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_task.php" afterPath="$PROJECT_DIR$/10_task.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13_task.php" afterPath="$PROJECT_DIR$/13_task.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +32,7 @@
       <file leaf-file-name="13_task.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13_task.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="476">
               <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="e#6#11#0#PHP" expanded="true" />
@@ -274,7 +272,7 @@
       <workItem from="1487031063150" duration="566000" />
       <workItem from="1487109406940" duration="18474000" />
       <workItem from="1487201813719" duration="14116000" />
-      <workItem from="1487288885499" duration="17851000" />
+      <workItem from="1487288885499" duration="17899000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1487031105083</created>
@@ -374,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487302364598</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="13 not done">
+      <created>1487340908875</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1487340908875</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70446000" />
+    <option name="totallyTimeSpent" value="70494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -790,7 +795,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="476">
           <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="e#6#11#0#PHP" expanded="true" />
