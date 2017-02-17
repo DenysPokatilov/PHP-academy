@@ -13,26 +13,25 @@ function flipstring($a){
    $b =strrev($a);
     return $b;
 }
-
 function save_comments ($arr){
     return file_put_contents('comments.txt',serialize($arr));
 }
 $a=$_POST['word'];
 save_comments($a);
 print_r(flipstring($a));
-$send_from_form=false;
-if (isset($_POST['submit'])) {
-    $send_from_form = true;
-    $word = $_POST['word'];
-    $arr=[$word];
-    save($arr);
-    flipstring($arr);
-    print_r(flipstr($arr));
-    if ($_POST['word']==null) {
-        throw new Error("imput is Empty;");
-    }
-
-}
+//$send_from_form=false;
+//if (isset($_POST['submit'])) {
+//    $send_from_form = true;
+//    $word = $_POST['word'];
+//    $arr=[$word];
+//    save($arr);
+//    flipstring($arr);
+//    print_r(flipstr($arr));
+//    if ($_POST['word']==null) {
+//        throw new Error("imput is Empty;");
+//    }
+//
+//}
 ?>
 
 
