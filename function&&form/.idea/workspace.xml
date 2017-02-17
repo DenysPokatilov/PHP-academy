@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c65a0018-e86b-48bf-9ed7-624392bba2bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13_task.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9_task.php" afterPath="$PROJECT_DIR$/9_task.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../php_basic_array/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../php_basic_array/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,31 +23,85 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9_task.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9_task.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/9_task.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="646">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
               <folding>
-                <element signature="e#6#236#0#PHP" expanded="true" />
+                <element signature="e#6#228#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9_task.php" pinned="false" current-in-tab="false">
-        <entry file="file://C:/xampp/htdocs/9_task.php">
+      <file leaf-file-name="6.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/xampp/htdocs/6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="295">
+              <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11_task.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <marker date="1487295535039" expanded="true" signature="1141:1512" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1148:1208" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1215:1504" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1221:1496" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1278:1488" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1286:1379" ph="..." />
-                <marker date="1487295535039" expanded="true" signature="1387:1476" ph="..." />
+                <element signature="e#6#694#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_task.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding>
+                <element signature="e#6#11#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12_test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+              <folding>
+                <element signature="e#6#673#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_task.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="36" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_task.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_task.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+                <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
+                <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
+                <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
+                <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,6 +150,13 @@
         <option value="$PROJECT_DIR$/7_task/7_task.php" />
         <option value="C:/xampp/htdocs/9_task.php" />
         <option value="$PROJECT_DIR$/9_task.php" />
+        <option value="$PROJECT_DIR$/t.php" />
+        <option value="$PROJECT_DIR$/10_task.php" />
+        <option value="C:/xampp/htdocs/10_task.php" />
+        <option value="C:/xampp/htdocs/6.php" />
+        <option value="$PROJECT_DIR$/12_test.php" />
+        <option value="$PROJECT_DIR$/11_task.php" />
+        <option value="$PROJECT_DIR$/13_task.php" />
       </list>
     </option>
   </component>
@@ -137,20 +203,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="function&amp;&amp;form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="function&amp;&amp;form" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6_task" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -159,7 +211,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/9_task.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_basic_array" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -247,7 +299,7 @@
       <workItem from="1487031063150" duration="566000" />
       <workItem from="1487109406940" duration="18474000" />
       <workItem from="1487201813719" duration="14116000" />
-      <workItem from="1487288885499" duration="6720000" />
+      <workItem from="1487288885499" duration="13332000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1487031105083</created>
@@ -333,11 +385,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487294578997</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="9_done">
+      <created>1487295621331</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487295621331</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59315000" />
+    <option name="totallyTimeSpent" value="65927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -393,44 +452,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8_task/8_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_task/6_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_task/6_task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="30" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -444,7 +465,7 @@
         <state relative-caret-position="272">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#6#85#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -463,7 +484,7 @@
         <state relative-caret-position="748">
           <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#6#85#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -610,7 +631,7 @@
         <state relative-caret-position="272">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#6#85#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -629,7 +650,7 @@
         <state relative-caret-position="714">
           <caret line="42" column="51" lean-forward="true" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
           <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#6#85#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -668,20 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-            <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
-            <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_task.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -694,14 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_task/7_task.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -722,12 +721,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/xampp/htdocs/10_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_task/7_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+            <marker date="1487204110915" expanded="true" signature="323:342" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="390:404" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="441:465" ph="..." />
+            <marker date="1487204110915" expanded="true" signature="501:525" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#6#673#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#694#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/9_task.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="646">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
           <folding>
-            <element signature="e#6#236#0#PHP" expanded="true" />
+            <element signature="e#6#228#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="e#6#11#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
