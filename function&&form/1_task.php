@@ -16,6 +16,7 @@ function getCommonWords($a='input', $b='input'){
     $result="$a.$b";
 
 }
+
 print_r(getCommonWords($a,$b));
 ?>
 <!DOCTYPE html>

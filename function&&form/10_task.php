@@ -28,6 +28,7 @@ function unique($a){
 
 
 
+
 $a='input';
 var_dump($a);
 $a=$_POST['word'];
