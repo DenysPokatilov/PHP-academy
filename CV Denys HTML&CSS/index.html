@@ -50,7 +50,7 @@
                                                                                             <li><img  class="mailFoto" src="http://images.clipartpanda.com/mail-clipart-mail-order-clipart-free-clipart-images.png">    denyspokatilov@gmail.com</li>
                                                                                             <li><img src="http://www.freeiconspng.com/uploads/office-phone-icon--25.png">  +38(093)097-75-55</li>
                                                                                             <li><img src="http://www.iconsdb.com/icons/preview/black/skype-6-xxl.png">  kazantip4ik2</li>
-                                                                                            <li> <img src="http://www.boneyardantiques.com/uploads/4/8/9/6/48960869/8092952_orig.png"> <a class="linkF" href="https://www.facebook.com/denys.pokatilov?ref=bookmarks" >   fb.com/denys.pokatilov</a></li>
+                                                                                            <li><img src="http://www.boneyardantiques.com/uploads/4/8/9/6/48960869/8092952_orig.png"> <a class="linkF" href="https://www.facebook.com/denys.pokatilov?ref=bookmarks" >   fb.com/denys.pokatilov</a></li>
                                                                                             <li><img class="gitpic" src="http://fan-far.com/sites/default/files/styles/blog_teaser/public/Git-Logo-Black.png?itok=VTa3l11c" > <a class="linkF" href="https://github.com/DenysPokatilov"> github.com/DenysPokatilov </a></li>
                                                                                         </ul>
                                                                 </div>
@@ -162,14 +162,96 @@
                                                                     </ul>
                                                                 </div>
                                                                 <div class="blockDown" >
-                                                                    <a download href="E:\Projects\MyProjects\PHP\untitled2\DenysPokatilovC# Developer" class="button15"  ><p>Download CV Denys Pokatilov</p></a>
+                                                                    <a download href="/DenysPokatilovWebDeveloper.pdf" class="button15"  ><p>Download CV Denys Pokatilov</p></a>
                                                                     <!-- <a download href="Ссылка на файл" onclick="location='Ссылка на страницу'">Ссылка</a> -->
                                                                 </div>
+                                                                <?=getErrorMessages()?>
 
-                                                            </div>
+                                                                <hr>
+
+                                                                <h2>Add your comment</h2>
+
+                                                                <form name="contactform" method="post" action="PHPMailerAutoload.php">
+                                                                    <table width="450px">
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top">
+                                                                                <label for="first_name">First Name *</label>
+                                                                            </td>
+                                                                            <td valign="top">
+                                                                                <input  type="text" name="first_name" maxlength="50" size="30" required>
+                                                                            </td>
+                                                                        </tr>
+
+                                                                        <tr>
+                                                                            <td valign="top"">
+                                                                            <label for="last_name">Last Name *</label>
+                                                                            </td>
+                                                                            <td valign="top">
+                                                                                <input  type="text" name="last_name" maxlength="50" size="30"required>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top">
+                                                                                <label for="email">Email Address *</label>
+                                                                            </td>
+                                                                            <td valign="top">
+                                                                                <input  type="text" name="email" maxlength="80" size="30"required>
+                                                                            </td>
+
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top">
+                                                                                <label for="telephone">Telephone Number</label>
+                                                                            </td>
+                                                                            <td valign="top">
+                                                                                <input  type="text" name="telephone" maxlength="30" size="30"required>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td valign="top">
+                                                                                <label for="comments">Comments *</label>
+                                                                            </td>
+                                                                            <td valign="top">
+                                                                                <textarea style="width: 278px; height: 132px;" name="comments" style="padding: 0px 0px" maxlength="1000" cols="25" rows="6"required></textarea>
+                                                                            </td>
+
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td colspan="2" style="text-align:center">
+                                                                                <input type="submit" value="Submit">  <a href="http://www.freecontactform.com/html_form.php"></a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </form>
+
+                                                            <!--<div id="form-wrapper">-->
+                                                                <!--<form action="contactUs.php" method="post" >-->
+                                                                      <!--<div id="form-inner">-->
+                                                                          <!--<label for="uName">Username *: </label>-->
+                                                                          <!--<input type="text" name="uName">-->
+                                                                    <!--</div>-->
+                                                                    <!--<div>-->
+                                                                        <!--<label for="uMail">Email *: </label>-->
+                                                                        <!--<input type="email" name="uMail">-->
+                                                                    <!--</div>-->
+                                                                    <!--<div>-->
+                                                                        <!--<label for="uComment">Comment *: </label>-->
+                                                                        <!--<textarea name="uComment"></textarea>-->
+                                                                    <!--</div>-->
+                                                                    <!--<button type="submit">Add comment</button>-->
+                                                                <!--</form>-->
+                                                                <!--<p>* - required fields</p>-->
+
+                                                                <!--&lt;!&ndash;<hr>&ndash;&gt;-->
+
+                                                                <!--<?=displayComments()?>-->
+
+                                                            <!--</div>-->
 
                                             </div>
-
+                                            </div>
+                    </div>
 
                         
 
