@@ -8,9 +8,12 @@ html {
     background-image: url("http://codecondo.com/wp-content/uploads/2015/02/Top-7-Tools-for-Analyzing-and-Parsing-Your-PHP-Code.jpg?478983")    ;
     margin: 0px;
     padding: 0px;
-    height: 100%;
-    width: 100%;
+    height: auto;
+    width: auto;
 }
+/*p{*/
+    /*padding: 10px;*/
+/*}*/
 a{
     text-decoration: none;
 
@@ -22,6 +25,7 @@ a{
     position: absolute;
     opacity: 0.9;
     border-radius: 20px;
+
 
 }
 .mainWrapper{
@@ -178,9 +182,11 @@ li{ display: block;
     height:auto;
     margin-top: 20px;
 }
-.blockDown a {
+.blockDown a{
+    padding: 10px 10px;
     display: block;
 }
+
 /*.hrefdownl{
     display: block;
     z-index: 3;

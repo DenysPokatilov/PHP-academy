@@ -12,86 +12,84 @@
  * Time: 18:59
  */
 
-$errorMessages = [];
-$fileName = 'userComments.dat';
+if(isset($_POST['email'])) {
 
-if ($_POST) {
-    if (empty($_POST['uName'])) {
-        $errorMessages[] = 'Username is empty!';
-    }
-    if (empty($_POST['uMail'])) {
-        $errorMessages[] = 'User email is empty!';
-    } elseif (!filter_var($_POST['uMail'], FILTER_VALIDATE_EMAIL)) {
-        $errorMessages[] = 'User email has wrong forat!';
-    }
-    if (empty($_POST['uComment'])) {
-        $errorMessages[] = 'User comment is empty!';
-    }
-    if (empty($errorMessages)) {
-        setComments($_POST);
-    }
-}
+    // CHANGE THE TWO LINES BELOW
+    $email_to = "you@yourdomain.com";
 
-function getComments()
-{
-    global $fileName;
-    if (file_exists($fileName)) {
-        return file_get_contents($fileName);
-    }
-}
+    $email_subject = "website html form submissions";
 
-function setComments($data)
-{
-    global $fileName;
-    $prevComments = getComments();
-    if (($prevComments !== false) && (!empty($prevComments))) {
-        $aPrevData = unserialize($prevComments);
-    } else {
-        $aPrevData = [];
-    }
-    $data['addedDate'] = date('Y-m-d H:i:s');
-    $aNewData = array_merge([$data], $aPrevData);
-    echo '<p>Debug all comments: </p><pre>' . var_export($aNewData, 1) . '</pre>';
-    $sData = serialize($aNewData);
-    file_put_contents($fileName, $sData);
-}
 
-function getErrorMessages()
-{
-    global $errorMessages;
-    if (! empty($errorMessages)) {
-        foreach ($errorMessages as $error) {
-            echo '<p class="error">' . $error . '</p>';
-        }
+    function died($error) {
+        // your error code can go here
+        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
+        echo "These errors appear below.<br /><br />";
+        echo $error."<br /><br />";
+        echo "Please go back and fix these errors.<br /><br />";
+        die();
     }
-}
 
-function displayComments()
-{
-    $sComm = getComments();
-    if ($sComm !== false) {
-        $aComm = unserialize($sComm);
-        if (!empty($aComm)) {
-            foreach ($aComm as $comm) {
-                echo '<div class="comment">' .
-                    '<p><span class="date">' . $comm['addedDate'] . '</span> by <a href="mailto:' . $comm['uMail'] . '">' . $comm['uName'] . '</a>:</p>' .
-                    '<div class="comment-text">' . antimat($comm['uComment']) . '</div>'.
-                    '</div>';
-            }
-        }
+    // validation expected data exists
+    if(!isset($_POST['first_name']) ||
+        !isset($_POST['last_name']) ||
+        !isset($_POST['email']) ||
+        !isset($_POST['telephone']) ||
+        !isset($_POST['comments'])) {
+        died('We are sorry, but there appears to be a problem with the form you submitted.');
     }
-}
 
-function antimat($str)
-{
-    return str_replace([
-        'Choko',
-        'test',
-    ], [
-        'Ch***',
-        't***',
-    ], $str);
+    $first_name = $_POST['first_name']; // required
+    $last_name = $_POST['last_name']; // required
+    $email_from = $_POST['email']; // required
+    $telephone = $_POST['telephone']; // not required
+    $comments = $_POST['comments']; // required
+
+    $error_message = "";
+    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+    if(!preg_match($email_exp,$email_from)) {
+        $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+    }
+    $string_exp = "/^[A-Za-z .'-]+$/";
+    if(!preg_match($string_exp,$first_name)) {
+        $error_message .= 'The First Name you entered does not appear to be valid.<br />';
+    }
+    if(!preg_match($string_exp,$last_name)) {
+        $error_message .= 'The Last Name you entered does not appear to be valid.<br />';
+    }
+    if(strlen($comments) < 2) {
+        $error_message .= 'The Comments you entered do not appear to be valid.<br />';
+    }
+    if(strlen($error_message) > 0) {
+        died($error_message);
+    }
+    $email_message = "Form details below.\n\n";
+
+    function clean_string($string) {
+        $bad = array("content-type","bcc:","to:","cc:","href");
+        return str_replace($bad,"",$string);
+    }
+
+    $email_message .= "First Name: ".clean_string($first_name)."\n";
+    $email_message .= "Last Name: ".clean_string($last_name)."\n";
+    $email_message .= "Email: ".clean_string($email_from)."\n";
+    $email_message .= "Telephone: ".clean_string($telephone)."\n";
+    $email_message .= "Comments: ".clean_string($comments)."\n";
+
+
+// create email headers
+    $headers = 'From: '.$email_from."\r\n".
+        'Reply-To: '.$email_from."\r\n" .
+        'X-Mailer: PHP/' . phpversion();
+    @mail($email_to, $email_subject, $email_message, $headers);
+    ?>
+
+    <!-- place your own success html below -->
+
+    Thank you for contacting us. We will be in touch with you very soon.
+
+    <?php
 }
+die();
 
 
 
@@ -105,7 +103,7 @@ $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp1.example.com;smtp2.example.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'denyspokatilov@gmail.com';                 // SMTP username
-$mail->Password = 'Sydak2009';                           // SMTP password
+$mail->Password = 'secret';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 
